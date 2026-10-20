@@ -1,1 +1,2 @@
+-c constraints.txt
 msal==1.34.0

@@ -1,0 +1,10 @@
+# Preserve the bundled dependency versions for each supported Python runtime.
+cffi==2.0.0; python_version == "3.9"
+cffi==2.1.1; python_version == "3.13"
+cryptography==48.0.1; python_version == "3.9"
+cryptography==48.0.1; python_version == "3.13"
+pycparser==2.23; python_version == "3.9"
+pycparser==3.11; python_version == "3.13"
+pyjwt==2.15.1; python_version == "3.9"
+pyjwt==2.15.1; python_version == "3.13"
+typing-extensions==4.16.0; python_version == "3.9"
